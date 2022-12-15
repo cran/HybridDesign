@@ -1,0 +1,10 @@
+36861fca0ee7f4a72525efd8ea0bfd0f *DESCRIPTION
+9f21a44963ac1da7885fcb89541b3bb1 *NAMESPACE
+ab94afe31940f87ab7a5e9d0e3faa583 *R/get_boundary_mtpi.R
+9d68dded8544123edc3ddd58e523ce78 *R/get_oc_hybrid.R
+8564bc3ce05b0b5c806960af7a2a3abe *R/hybrid.R
+f388370e6181444ed399628262165e2a *R/hybrid_MTD_selection.R
+8a16c6ec5949384c3cf69b396b554aef *man/get_boundary_mtpi.Rd
+41b388e5df9d9ff50cdc97d91383ffb0 *man/get_oc_hybrid.Rd
+bd1c84078673db4be99589728869d5fc *man/hybrid.Rd
+334e3dd90e1c0d2f20c4cdc78954a0f5 *man/hybrid_MTD_selection.Rd
